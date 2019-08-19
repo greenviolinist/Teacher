@@ -1,4 +1,7 @@
-# README
+
+Live version: http://teacher-guitar.surge.sh/
+
+Built this app using React on Rails
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
